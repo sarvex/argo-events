@@ -30,7 +30,7 @@ require (
 	github.com/colinmarc/hdfs v1.1.4-0.20180802165501-48eb8d6c34a9
 	github.com/eclipse/paho.mqtt.golang v1.4.3
 	github.com/emitter-io/go/v2 v2.0.9
-	github.com/fsnotify/fsnotify v1.6.0
+	github.com/fsnotify/fsnotify v1.7.0
 	github.com/gavv/httpexpect/v2 v2.16.0
 	github.com/gfleury/go-bitbucket-v1 v0.0.0-20210707202713-7d616f7c18ac
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
@@ -67,7 +67,7 @@ require (
 	github.com/slack-go/slack v0.12.3
 	github.com/smartystreets/goconvey v1.8.1
 	github.com/spf13/cobra v1.8.0
-	github.com/spf13/viper v1.17.0
+	github.com/spf13/viper v1.18.1
 	github.com/stretchr/testify v1.8.4
 	github.com/stripe/stripe-go v70.15.0+incompatible
 	github.com/tidwall/gjson v1.17.0
@@ -143,7 +143,7 @@ require (
 	github.com/pjbgf/sha1cd v0.3.0 // indirect
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/sagikazarmark/locafero v0.3.0 // indirect
+	github.com/sagikazarmark/locafero v0.4.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
 	github.com/sanity-io/litter v1.5.5 // indirect
 	github.com/santhosh-tekuri/jsonschema/v5 v5.0.0 // indirect
@@ -284,8 +284,8 @@ require (
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	github.com/spf13/afero v1.10.0 // indirect
-	github.com/spf13/cast v1.5.1 // indirect
+	github.com/spf13/afero v1.11.0 // indirect
+	github.com/spf13/cast v1.6.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
