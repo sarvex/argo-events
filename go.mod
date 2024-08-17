@@ -62,7 +62,7 @@ require (
 	github.com/prometheus/client_golang v1.20.0
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/radovskyb/watcher v1.0.7
-	github.com/riferrei/srclient v0.6.0
+	github.com/riferrei/srclient v0.7.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/slack-go/slack v0.14.0
 	github.com/smartystreets/goconvey v1.8.1
@@ -135,7 +135,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.8 // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
-	github.com/linkedin/goavro/v2 v2.11.1 // indirect
+	github.com/linkedin/goavro/v2 v2.12.0 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/mtibben/percent v0.2.1 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
