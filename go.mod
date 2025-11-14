@@ -1,6 +1,6 @@
 module github.com/argoproj/argo-events
 
-go 1.20
+go 1.23.0
 
 retract v1.15.1 // Contains retractions only.
 
@@ -112,7 +112,7 @@ require (
 	github.com/cyphar/filepath-securejoin v0.4.1 // indirect
 	github.com/danieljoos/wincred v1.1.2 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
-	github.com/dvsekhvalnov/jose2go v1.6.0 // indirect
+	github.com/dvsekhvalnov/jose2go v1.7.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.11.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
